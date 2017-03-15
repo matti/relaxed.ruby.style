@@ -215,10 +215,10 @@ be discussed, tweaked and activated individually.
 
 * [Christian Neukirchen](https://github.com/chneukirchen/styleguide/blob/master/RUBY-STYLE)
 * [Fast Ruby](https://github.com/JuanitoFatas/fast-ruby)
+* [Shopify](http://shopify.github.io/ruby-style-guide/)
 * [Ruby Style Guide (Rubocop)](https://github.com/bbatsov/ruby-style-guide/)
   * [GitHub](https://github.com/styleguide/ruby)
   * [Airbnb](https://github.com/airbnb/ruby)
-* [Shopify](http://shopify.github.io/ruby-style-guide/)
 
 ## Also See
 
